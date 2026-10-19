@@ -1,0 +1,14 @@
+D:\oop\bai6\Lab06\bin\Debug\net10.0\Lab06.exe
+D:\oop\bai6\Lab06\bin\Debug\net10.0\Lab06.deps.json
+D:\oop\bai6\Lab06\bin\Debug\net10.0\Lab06.runtimeconfig.json
+D:\oop\bai6\Lab06\bin\Debug\net10.0\Lab06.dll
+D:\oop\bai6\Lab06\bin\Debug\net10.0\Lab06.pdb
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.AssemblyInfoInputs.cache
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.AssemblyInfo.cs
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.csproj.CoreCompileInputs.cache
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.dll
+D:\oop\bai6\Lab06\obj\Debug\net10.0\refint\Lab06.dll
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.pdb
+D:\oop\bai6\Lab06\obj\Debug\net10.0\Lab06.genruntimeconfig.cache
+D:\oop\bai6\Lab06\obj\Debug\net10.0\ref\Lab06.dll
